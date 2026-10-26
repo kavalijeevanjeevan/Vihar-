@@ -51,5 +51,14 @@
   "g1",
   "g2"
  ],
- "photos": []
+ "photos": [
+  {
+   "f": "photos/p1793006364565.jpg",
+   "c": "Founder of abv"
+  },
+  {
+   "f": "photos/p1793006396208.jpg",
+   "c": "Co founder of abv"
+  }
+ ]
 }
